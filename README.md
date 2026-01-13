@@ -92,7 +92,4 @@ My focus is to build repeatable analyst skills:
 - No sensitive data (real IPs, usernames, tokens, etc.)
 - Content is written to be safe and professional for public viewing
 
----
 
-## Profile
-GitHub: https://github.com/MH-Imran
